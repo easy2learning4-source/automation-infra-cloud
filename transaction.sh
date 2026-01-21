@@ -3,4 +3,4 @@ hi sh
 2. mixed reset: Mixed reset will not changes anything in working directory ,but it will move changes from staging area and local repository.
 3. hard reset: Hard reset will move changes from all stages of git to particular commit i.e Hard reset will move the HEAD to particular commit to record changes from that point.
 hello
-
+hi
